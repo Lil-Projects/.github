@@ -1,6 +1,6 @@
 ## Live Projects
 
-no one cares but ok
+no one cares
 
 cringe
 
