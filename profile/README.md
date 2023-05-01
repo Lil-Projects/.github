@@ -1,9 +1,5 @@
 ## Live Projects
 
-no one cares
-
-cringe
-
 <!-- made by me : -->
 
 1. [Discord Nitro Generator](https://nitrocodes.vercel.app)
